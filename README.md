@@ -25,4 +25,4 @@ Problem Statements
 21. Which are the 3 most popular and 3 least popular painting styles?
 22. Which artist has the most no of Portraits paintings outside USA?. Display artist name, no of paintings and the artist nationality.
 
-(source: https://www.youtube.com/watch?v=AZ29DXaJ1Ts)
+(source: www.youtube.com/watch?v=AZ29DXaJ1Ts)
